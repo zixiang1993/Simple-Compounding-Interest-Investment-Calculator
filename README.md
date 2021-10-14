@@ -1,5 +1,5 @@
 # Simple-Compounding-Interest-Investment-Calculator
-A simple compounding interest investment calculator. One of the earliest scripts / programs, it didn't really go anywhere further until I discovered and learned how to use pyinstaller! Now, anyone can use it!
+A simple compounding interest investment calculator. One of the earliest scripts / programs using Python, it didn't really go anywhere further until I discovered and learned how to use pyinstaller! Now, anyone can use it!
 
 # What does it do?
 - It allows the calculation of compounding interest by placing in user input variables such as principal deposit amount, interest per annum (%) and duration in no. of years.
