@@ -11,6 +11,12 @@ A simple compounding interest investment calculator. One of the earliest scripts
 # How was it compiled / created?
 - It was compiled using PyCharm and Pyinstaller. 
 
+# Change Log: 
+- Version 3.0: Added cumulative total interest for yearly increments. 
+
+# Credits and Note: 
+Credits to the Andrei Neagoie's course for teaching me how to use Python! 
+
 Thank you, and hope you found this program useful!
 
 For newbie developers, free to use the code if you want to.
